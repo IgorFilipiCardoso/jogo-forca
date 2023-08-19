@@ -287,6 +287,7 @@ botao.addEventListener("click", () => {
                 // Redefine a vida, a tag de letras usadas, o contador de imagens, redefine para a imagem inicial.
                 vida = 6;
                 usadas.textContent = "";
+                ganhou = 0;
                 img = 0;
                 document.querySelector("#enforcado").setAttribute("src", "images/nivel" + img + ".png")
 
