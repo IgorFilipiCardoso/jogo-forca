@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Lista de palavras
 const words = [
     "banana",
