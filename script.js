@@ -165,7 +165,6 @@ const words = [
     "agua"
   ];
 
-
 // A palavra sera sorteada
 var palavra = words[Math.floor(Math.random() * words.length)];
 
